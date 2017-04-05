@@ -1,7 +1,6 @@
 #jacky(sicong) Liu
 #number of hours:14 hours
-#some additonal require not done, but still a good practice for final exams
-#student ID:301269558
+#some additonal require not complete, but still a good practice for final exams
 #sla255@sfu.ca
 def the_board():
     nrows=len(mat)
